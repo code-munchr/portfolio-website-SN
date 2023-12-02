@@ -19,13 +19,14 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I'm passionate <span className="font-medium">Problem Solver</span> with and satiable desire for learning.{" "}
+        I'm passionate <span className="font-medium">Problem Solver</span> with an insatiable desire for learning.{" "}
+        I'm a self taught programmer and love dabbling with new technologies.
         I have mostly worked e-commerce and fintech Projects.{" "}
         My core stack
         is{" "}
         <span className="font-medium">
           React, Next.js, Node.js, Nest.js, PostgreSQL and MongoDB
-        </span>. I'm Proficient with TypeScript and Prisma and I'm always looking to
+        </span>. I'm also proficient with Ruby-on-Rails and Django... and I'm always looking to
         learn new technologies.
         <span className="italic"> When I'm not coding</span>, I enjoy playing
         video games, going out with friends, and listening to music.{" "}
