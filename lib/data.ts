@@ -50,7 +50,7 @@ export const experiencesData = [
   },
   {
     title: "Full-Stack Developer",
-    location: "Kandahar, AFG",
+    location: "BCD apps - KHD, AFG",
     description:
       "Worked For a website development agency and built fetures for multiple clients.",
     icon:React.createElement(CgWorkAlt),

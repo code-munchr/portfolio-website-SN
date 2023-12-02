@@ -65,7 +65,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Sajad.</span> I'm a{" "}
         <span className="font-bold">Software Engineer</span> with{" "}
-        <span className="font-bold">3 years</span> of experience. I enjoy
+        <span className="font-bold">4 years</span> of experience. I enjoy
         building <span className="italic">web apps</span>. My work is primarily focused on{" "}
         <span className="underline">Javascript</span> But I'm also proficient with ROR and Django.
       </motion.h1>
