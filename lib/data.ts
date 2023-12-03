@@ -38,7 +38,7 @@ export const experiencesData = [
     description:
       "Fullstack Engineer for a digital agency based in London. I Worked on the briefly and Omni project.",
     icon: React.createElement(CgWorkAlt),
-    date: "Dec 2022 - Oct 2023",
+    date: "May 2022 - Oct 2023",
   },
   {
     title: "Software Engineer",
@@ -50,11 +50,11 @@ export const experiencesData = [
   },
   {
     title: "Full-Stack Developer",
-    location: "BCD apps - KHD, AFG",
+    location: "BCD apps - KDH, AFG",
     description:
       "Worked For a website development agency and built fetures for multiple clients.",
     icon:React.createElement(CgWorkAlt),
-    date: "Oct 2019 - Feb 2020",
+    date: "Oct 2019 - Jan 2020",
   },
 ] as const;
 
